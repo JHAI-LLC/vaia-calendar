@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "vaia-calendar",
+    "slug": "vaia-calendar",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "vaia-calendar"
+}
